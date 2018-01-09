@@ -1,0 +1,10 @@
+{
+  "name": "hubot-hardbass-me",
+  "version": "1.0.0",
+  "description": "http://lyricstranslate.com/en/narkotik-kal-drugs-are-shit.html",
+  "main": "index.coffee",
+  "repository": "https://github.com/zGrav/hubot-hardbass-me",
+  "author": "David Silva <me@zgrav.pro>",
+  "license": "BSD 2-clause",
+  "private": false
+}
